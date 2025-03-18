@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Education
 ======
 **Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
