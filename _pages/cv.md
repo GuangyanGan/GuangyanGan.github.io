@@ -26,7 +26,7 @@ Including scheduled events.
 
 [2025] 2025 INFORMS International Conference, Singapore
 
-[2025] Asian Bureau of Finance and Economic Research 12th ANNUAL CONFERENCE, Singapore
+[2025] Asian Bureau of Finance and Economic Research 12th Annual Conference, Singapore
 
 [2025] 35th Annual POMS Conference, Atlanta
 
