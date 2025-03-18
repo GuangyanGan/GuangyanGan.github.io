@@ -11,15 +11,15 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 About Me
 ======
-Greetings! I am currently a Ph.D. candidate at Nanyang Technological University. My research interests lie at the intersection of **artificial intelligence**, **digital economy**, and **fintech**. 
+Greetings! I am currently a Ph.D. candidate at Nanyang Technological University. My research interests include topics at the interface between mathematics, statistics, operations research, computer science, finance and economics.
 
 ## Research Interest
 
 - **Artificial Intelligence:** Deep Learning, Reinforcement Learning, Transfer Learning, Online Learning
 - **AI Ethics:** Transparency, Fairness, and Privacy
-- **AI for Finance/Economics** 
-- **Financial Technology**
-- **Digital Economy** 
+- **AI for Finance/Economics:** AI in risk management, 
+- **Financial Technology:** Cryptocurrency & Blockchain Technology
+- **Digital Economy:** 
 
 
 **If you are interested in these topics, please feel free to contact me!**
