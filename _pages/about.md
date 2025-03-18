@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Greetings! I am currently a Ph.D. candidate at Nanyang Technological University. My research interests include topics at the interface between mathematics, statistics, operations research, computer science, finance and economics.
 
 ## Research Interest
