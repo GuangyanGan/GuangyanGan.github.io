@@ -13,9 +13,9 @@ Greetings! I am currently a Ph.D. candidate at Nanyang Technological University.
 
 - **Artificial Intelligence:** Deep Learning, Reinforcement Learning, Transfer Learning, Online Learning
 - **AI Ethics:** Transparency, Fairness, and Privacy
-- **AI for Finance/Economics:** AI in risk management, AI-based portfolio optimization,Natural language processing in financial and economical applications
+- **AI for Finance & the Economics of AI, Digital Economy:** AI in risk management, AI-based portfolio optimization, Natural language processing in financial and economic applications
 - **Financial Technology:** Cryptocurrency & Blockchain Technology
-- **Digital Economy:** 
+
 
 
 **If you are interested in these topics, please feel free to contact me!**
