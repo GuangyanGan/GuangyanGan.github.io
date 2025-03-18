@@ -1,64 +1,54 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**B.Sc. in Statistics**, 2018 - 2022, Sichuan University, China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Affiliations
+======
+**The Digital Economics and Financial Technology Lab ([DEFT](https://www.linwilliamcong.com/deft-members))**, 2024 - Present
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Talks & Conferences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Including scheduled events. 
 
-Publications
+[2025] 2025 INFORMS Annual Meeting, Atlanta
+
+[2025] 2025 INFORMS International Conference, Singapore
+
+[2025] Asian Bureau of Finance and Economic Research 12th ANNUAL CONFERENCE, Singapore
+
+[2025] 35th Annual POMS Conference, Atlanta
+
+[2025] The 15th POMS-HK International Conference, Hong Kong
+
+[2024] 2024 INFORMS Annual Meeting, Seattle
+
+[2024] 2024 CCER SUMMER INSTITUTE, Beijing
+
+
+Work Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**JD.com, Beijing, China**  
+*Researcher Intern (Machine Learning Engineer), 2023.11 – 2024.2*  
+- Develop deep learning algorithms for textual data.  
+
+**Kuaishou, Beijing, China**  
+*Research Intern (Data Scientist), 2025.5-2025.8*  
+- Propose transfer learning algorithms for recommendation systems.  
+
+Teaching Experience
+======
+**Teaching Assistant, Nanyang Technological University (NTU)**  
+
+- **Computational Economics (Undergraduate)** – Fall 2023  
+- **Optimization and Analytics (Undergraduate)** – Spring 2024  
+- **Introduction to Computational Thinking (Undergraduate)** – Fall 2024  
+
+
   
-Talks
+Professional Services
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Conference Reviewer**: ICLR (2025)
+
+**Session Chair**: The 15th POMS-HK International Conference (2025), 2025 INFORMS International Conference, 2025 INFORMS Annual Meeting
