@@ -34,7 +34,7 @@ Including scheduled events.
 
 [2024] 2024 INFORMS Annual Meeting, Seattle
 
-[2024] 2024 CCER SUMMER INSTITUTE, Beijing
+[2024] CEER Annual Conference 2024, Beijing
 
 
 Work Experience
