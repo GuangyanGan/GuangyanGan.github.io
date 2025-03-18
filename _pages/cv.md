@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
 ======
 **Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
 
