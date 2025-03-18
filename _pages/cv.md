@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-======
 **Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
 
 **B.Sc. in Statistics**, 2018 - 2022, Sichuan University, China
