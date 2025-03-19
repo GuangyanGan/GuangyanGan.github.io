@@ -16,7 +16,7 @@ redirect_from:
 
 Professional Affiliations
 ======
-**The Digital Economics and Financial Technology Lab ([DEFT](https://www.linwilliamcong.com/deft-members))**, 2024 - Present
+**The Digital Economics and Financial Technology Lab ([DEFT](https://www.linwilliamcong.com/deft-members))**
 
 Talks & Conferences
 ======
