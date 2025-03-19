@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am currently a Ph.D. candidate at Nanyang Technological University. My research interests include topics at the interface between mathematics, statistics, computer science, finance and economics.
+Greetings! I am a Ph.D. candidate at Nanyang Technological University, with research interests at the intersection of mathematics, statistics, computer science, finance, and economics. My work explores the evolving landscape of business and technology, and I actively collaborate with leading BigTech firms such as JD.com and Kuaishou to drive cutting-edge research in this dynamic field.
 
 ## Research Interest
 
