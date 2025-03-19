@@ -40,7 +40,7 @@ Including scheduled events.
 Work Experience
 ======
 **JD.com, Beijing, China**  
-*Researcher Intern (Machine Learning Engineer), 2023.11 – 2024.2*  
+*Researcher Intern (Machine Learning Engineer), 2021.11 – 2022.6*  
 - Develop deep learning algorithms for textual data.  
 
 **Kuaishou, Beijing, China**  
