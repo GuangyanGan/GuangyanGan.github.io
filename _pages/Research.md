@@ -17,7 +17,7 @@ with [Lin William Cong](https://www.linwilliamcong.com),[Hanzhang Qin](https://h
 reinforcement learning | privacy preservation | inventory control  
 
 Selected Conferences and Seminars:  2024 INFORMS Annual Meeting,The 15th POMS-HK International Conference, 35th POMS Conference 2025
-
+====
 **Transfer Prediction**
 
 with [Lin William Cong](https://www.linwilliamcong.com),Jingren Liu & [Hanzhang Qin](https://hanzhangqin.com) 
@@ -25,7 +25,7 @@ with [Lin William Cong](https://www.linwilliamcong.com),Jingren Liu & [Hanzhang 
 transfer learning | asset pricing | Fintech 
 
 Selected Conferences and Seminars:  The 15th POMS-HK International Conference
-
+====
 **Fairness-aware Dynamic Assortment Selection**
 
 with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)
@@ -33,17 +33,17 @@ with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.goog
 fairness | reinforcement learning | assortment optimization 
 
 Selected Conferences and Seminars: 2025 INFORMS International Conference
-
+====
 **Data-Driven Distributionally Robust Experiments**
 
-with [Tu Ni]([https://www.linwilliamcong.com](https://nitu.mystrikingly.com)),[Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home) 
+with [Tu Ni](https://nitu.mystrikingly.com),[Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home) 
 
 experiment design | Distributionally Robust optimization| data driven decisions 
 
 Selected Conferences and Seminars: 2025 INFORMS Annual Meeting
 
 
-
+====
 **Fairness-aware Experimentation with Heterogeneous Subgroups **  
 
 with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)
