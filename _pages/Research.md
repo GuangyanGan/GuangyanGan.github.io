@@ -11,12 +11,9 @@ redirect_from:
 
 
 # Privacy Preserving Inventory Control  
-
 **with [Lin William Cong](https://www.linwilliamcong.com),[Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)**  
-## Keywords  
-**reinforcement learning | privacy preservation | inventory control **  
-
-## Selected Conferences and Seminars  
+**Keywords: reinforcement learning | privacy preservation | inventory control **  
+Selected Conferences and Seminars  
 - 2024 INFORMS Annual Meeting 
 - The 15th POMS-HK International Conference
 - 35th POMS Conference 2025
