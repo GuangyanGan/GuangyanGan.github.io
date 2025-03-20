@@ -12,7 +12,6 @@ redirect_from:
 Working Papers 
 =============
 **Privacy Preserving Inventory Control** 
-====
 
 with [Lin William Cong](https://www.linwilliamcong.com),[Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)
 
