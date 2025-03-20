@@ -46,7 +46,7 @@ Selected Conferences and Seminars: 2025 INFORMS Annual Meeting
 
 
 
-**Fairness-aware Experimentation with Heterogeneous Subgroups **  
+Fairness-aware Experimentation with Heterogeneous Subgroups 
 ====
 with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)
 
