@@ -10,55 +10,48 @@ redirect_from:
 {% include base_path %}
 
 
-**Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
+# Privacy Preserving Inventory Control  
 
-**B.Sc. in Statistics**, 2018 - 2022, Sichuan University, China
+**with [Lin William Cong](https://www.linwilliamcong.com),[Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)**  
+## Keywords  
+**reinforcement learning | privacy preservation | inventory control **  
 
-Professional Affiliations
-======
-**The Digital Economics and Financial Technology Lab ([DEFT](https://www.linwilliamcong.com/deft-members))**
+## Selected Conferences and Seminars  
+- 2024 INFORMS Annual Meeting 
+- The 15th POMS-HK International Conference
+- 35th POMS Conference 2025
 
-Talks & Conferences
-======
-Including scheduled events. 
+# Transfer Prediction
 
-[2025] 2025 INFORMS Annual Meeting, Atlanta
+**with [Lin William Cong](https://www.linwilliamcong.com),Jingren Liu & [Hanzhang Qin](https://hanzhangqin.com)**  
+## Keywords  
+**transfer learning | asset pricing | small data **  
 
-[2025] 2025 INFORMS International Conference, Singapore
+## Selected Conferences and Seminars  
+- The 15th POMS-HK International Conference
 
-[2025] Asian Bureau of Finance and Economic Research 12th Annual Conference, Singapore
+#Fairness-aware Dynamic Assortment Selection
 
-[2025] 35th Annual POMS Conference, Atlanta
+**with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)**  
+## Keywords  
+**fairness | reinforcement learning | assortment optimization **  
 
-[2025] The 15th POMS-HK International Conference, Hong Kong
+## Selected Conferences and Seminars  
+-  2025 INFORMS International Conference
 
-[2024] 2024 INFORMS Annual Meeting, Seattle
+# Data-Driven Distributionally Robust Experiments
 
-[2024] CEER Annual Conference 2024, Beijing
+**with [Tu Ni]([https://www.linwilliamcong.com](https://nitu.mystrikingly.com)),[Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)**  
+## Keywords  
+**experiment design | Distributionally Robust optimization| data driven decisions **  
 
-
-Work Experience
-======
-**JD.com, Beijing, China**  
-*Researcher Intern (Machine Learning Engineer), 2021.11 – 2022.6*  
-- Develop deep learning algorithms for textual data.  
-
-**Kuaishou, Beijing, China**  
-*Research Intern (Data Scientist), 2025.5-2025.8*  
-- Propose transfer learning algorithms for recommendation systems.  
-
-Teaching Experience
-======
-**Teaching Assistant, Nanyang Technological University (NTU)**  
-
-- **Computational Economics (Undergraduate)** – Fall 2023  
-- **Optimization and Analytics (Undergraduate)** – Spring 2024  
-- **Introduction to Computational Thinking (Undergraduate)** – Fall 2024  
+## Selected Conferences and Seminars  
+- 2025 INFORMS Annual Meeting
 
 
-  
-Professional Services
-======
-**Conference Reviewer**: ICLR (2025)
+# Fairness-aware Experimentation with Heterogeneous Subgroups 
+**with [Hanzhang Qin](https://hanzhangqin.com) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home)**  
+## Keywords  
+**reinforcement learning | fairness | experiment design **  
 
-**Session Chair**: The 15th POMS-HK International Conference (2025), 2025 INFORMS International Conference, 2025 INFORMS Annual Meeting
+
