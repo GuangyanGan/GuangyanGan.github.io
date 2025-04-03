@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Greetings! I am a Ph.D. candidate at Nanyang Technological University, with research interests at the intersection of mathematics, statistics, computer science, finance, and economics. My work explores the evolving landscape of business and technology, and I actively collaborate with leading BigTech firms such as JD.com and Kuaishou to drive cutting-edge research in this dynamic field.
+Greetings! I am a Ph.D. candidate at Nanyang Technological University, specializing in the intersection of mathematics, statistics, computer science, finance, and economics. My research explores the evolving landscape of business and technology, focusing on how unstructured big data (such as text and images) and emerging AI technologies can be harnessed to guide business decisions. I collaborate actively with leading BigTech firms like JD.com and Kuaishou to advance cutting-edge research in this dynamic field.
 
 ## Research Interest
 
