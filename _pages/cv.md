@@ -22,19 +22,9 @@ Talks & Conferences
 ======
 Including scheduled events. 
 
-[2025] 2025 INFORMS Annual Meeting, Atlanta
+[2025] 2025 INFORMS Annual Meeting; 2025 INFORMS International Conference; Asian Bureau of Finance and Economic Research 12th Annual Conference; 35th Annual POMS Conference; The 15th POMS-HK International Conference
 
-[2025] 2025 INFORMS International Conference, Singapore
-
-[2025] Asian Bureau of Finance and Economic Research 12th Annual Conference, Singapore
-
-[2025] 35th Annual POMS Conference, Atlanta
-
-[2025] The 15th POMS-HK International Conference, Hong Kong
-
-[2024] 2024 INFORMS Annual Meeting, Seattle
-
-[2024] CEER Annual Conference 2024, Beijing
+[2024] 2024 INFORMS Annual Meeting; CEER Annual Conference 2024, Beijing
 
 
 Work Experience
@@ -53,12 +43,12 @@ Teaching Experience
 
 - **Computational Economics (Undergraduate)** – Fall 2023  
 - **Optimization and Analytics (Undergraduate)** – Spring 2024  
-- **Introduction to Computational Thinking (Undergraduate)** – Fall 2024  
+- **Introduction to Computational Thinking (Undergraduate)** – Fall 2024; Fall 2025 
 
 
   
 Professional Services
 ======
-**Conference Reviewer**: ICLR (2025)
+**Conference Reviewer**: ICLR (2025),ICLR (2026)
 
 **Session Chair**: The 15th POMS-HK International Conference (2025), 2025 INFORMS International Conference, 2025 INFORMS Annual Meeting
