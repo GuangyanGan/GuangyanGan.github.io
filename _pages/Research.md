@@ -19,7 +19,7 @@ Selected Conferences and Seminars:  2024 INFORMS Annual Meeting,The 15th POMS-HK
 
 Selected Conferences and Seminars: 2025 INFORMS Annual Meeting
 
-**MOTL: Multisource Online Transfer Learning with  an Application to Option Pricing** (with [Hui Chen](https://mitsloan.mit.edu/faculty/directory/hui-chen), & [Yuhan Cheng])(https://www.glxy.sdu.edu.cn/info/1091/6845.htm)
+**MOTL: Multisource Online Transfer Learning with  an Application to Option Pricing** (with [Hui Chen](https://mitsloan.mit.edu/faculty/directory/hui-chen), & [Yuhan Cheng](https://www.glxy.sdu.edu.cn/info/1091/6845.htm))
 
 Selected Conferences and Seminars: NTU Conference 2025 AI for Finance
 
