@@ -19,7 +19,7 @@ Selected Conferences and Seminars:  2024 INFORMS Annual Meeting,The 15th POMS-HK
 
 Selected Conferences and Seminars: NTU Conference 2025 AI for Finance
 
-%**CryptoAgent: a LLM-Powered Multi-Agent System for Crypto Investment** (with [Lin William Cong](https://www.linwilliamcong.com), & [Bo An](https://dr.ntu.edu.sg/entities/person/Bo-An))
+**CryptoAgent: a LLM-Powered Multi-Agent System for Crypto Investment** (with [Lin William Cong](https://www.linwilliamcong.com), & [Bo An](https://dr.ntu.edu.sg/entities/person/Bo-An))
 
 
 **Data-Driven Distributionally Robust Experiments** (with [Tu Ni](https://nitu.mystrikingly.com),[Jinglong Zhao](https://www.bu.edu/questrom/profiles/jinglong-zhao/) & [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home) )
