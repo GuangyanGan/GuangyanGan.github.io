@@ -24,7 +24,7 @@ Including scheduled events.
 
 [2025] 2025 INFORMS Annual Meeting; 2025 INFORMS International Conference; Asian Bureau of Finance and Economic Research 12th Annual Conference; 35th Annual POMS Conference; The 15th POMS-HK International Conference
 
-[2024] 2024 INFORMS Annual Meeting; CEER Annual Conference 2024, Beijing
+[2024] 2024 INFORMS Annual Meeting; CEER Annual Conference 2024
 
 
 Work Experience
