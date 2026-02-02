@@ -57,4 +57,4 @@ INFORMS Annual Meeting 2025
 ---
 
 ### CRAM: A Multi-Agent LLM System for Explainable Credit Assessment  
-(with [Lin William Cong](https://www.linwilliamcong.com)  and Mengzhe Ruan)
+(with [Lin William Cong](https://www.linwilliamcong.com)  and [Mengzhe Ruan](https://mezrua.github.io)
