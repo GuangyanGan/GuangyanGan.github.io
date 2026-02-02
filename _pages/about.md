@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! I am a Ph.D. candidate at Nanyang Technological University, specializing in FinTech, AI for finance, and LLM-driven agents. I actively collaborate with leading BigTech firms, including JD.com and Kuaishou, to advance cutting-edge research in this dynamic field.
+Greetings! I am a Ph.D. candidate at Nanyang Technological University, specializing in FinTech, AI for finance, and LLM-driven agents. I actively collaborate with leading BigTech firms, including Ant Group, JD.com and Kuaishou, to advance cutting-edge research in this dynamic field.
 
 ## Research Interest
 
