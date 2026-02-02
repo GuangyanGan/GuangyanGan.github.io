@@ -10,7 +10,7 @@ Greetings! I am a Ph.D. candidate at Nanyang Technological University, specializ
 
 ## Research Interest
 
-- **Artificial Intelligence:** Deep Learning, Reinforcement Learning, Transfer Learning, Online Learning
+- **Artificial Intelligence:** Deep Learning, Reinforcement Learning, Transfer Learning,Agentic AI, Multi-agent Systems
 - **AI Ethics:** Transparency, Fairness, and Privacy
 - **AI for Finance & Financial Technology:**  Cryptocurrency & Blockchain Technology, FinTech Innovation, AI-driven Financial Trading and Portfolio Management
 - **Digital Economy & the Economics of AI:** Economic Implications of AI, NLP Applications in Finance and Economics
