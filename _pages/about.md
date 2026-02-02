@@ -21,12 +21,7 @@ Greetings! I am a Ph.D. candidate at Nanyang Technological University, specializ
 
 Contact: GUANGYAN001[at]e.ntu.edu.sg 
 
-## Latest Updates & Upcoming Events
 
-1. Presentation: 2025 INFORMS Annual Meeting, Atlanta
-2. Presentation: 2025 INFORMS International Conference, Singapore
-3. Asian Bureau of Finance and Economic Research 12th Annual Conference, Singapore
-4. Presentation: 35th POMS Conference 2025, Atlanta
 
 
 
