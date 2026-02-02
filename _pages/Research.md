@@ -23,10 +23,7 @@ redirect_from:
 and [Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home))
 
 **Selected Conferences & Seminars:**  
-INFORMS Annual Meeting 2024;  
-15th POMS-HK International Conference;  
-35th POMS Conference 2025;  
-INFORMS International Conference 2025  
+INFORMS Annual Meeting 2024;  15th POMS-HK International Conference;  35th POMS Conference 2025;  INFORMS International Conference 2025  
 
 ---
 
