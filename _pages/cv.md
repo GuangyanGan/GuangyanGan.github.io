@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**Ph.D. in Mathematical Sciences**, 2023 - 2026 (expected), Nanyang Technological University, Singapore
+**Ph.D. in Mathematical Sciences**, 2023 - now, Nanyang Technological University, Singapore
 
 **B.Sc. in Statistics**, 2018 - 2022, Sichuan University, China
 
@@ -21,6 +21,8 @@ Professional Affiliations
 Talks & Conferences
 ======
 Including scheduled events. 
+
+[2026] AAAI 2026
 
 [2025] 2025 INFORMS Annual Meeting; 2025 INFORMS International Conference; NTU Summer School & Conference 2025 - AI for Finance; Asian Bureau of Finance and Economic Research 12th Annual Conference; 35th Annual POMS Conference; The 15th POMS-HK International Conference
 
@@ -35,7 +37,8 @@ Work Experience
 
 **Kuaishou, Beijing, China**  
 *Research Intern (Data Scientist), 2025.5-2025.8*  
-- Propose transfer learning algorithms for recommendation systems.  
+- Propose transfer learning algorithms for recommendation systems.
+- Design LLM-based multi-agent recomendation systems.  
 
 Teaching Experience
 ======
@@ -49,6 +52,6 @@ Teaching Experience
   
 Professional Services
 ======
-**Conference Reviewer**: ICLR (2025),ICLR (2026)
+**Conference Reviewer**: ICLR (2025,2026),AISTATS (2026)
 
 **Session Chair**: The 15th POMS-HK International Conference (2025), 2025 INFORMS International Conference, 2025 INFORMS Annual Meeting
